@@ -1,1 +1,5 @@
-# random-user-app-react-project
+# Random User App 
+
+React practice
+
+This project deployed with github >>> 
